@@ -1,0 +1,105 @@
+[
+  {
+    "canonical_term": "luftskepp",
+    "language": "sv",
+    "category": "craft_type",
+    "definition": "Motordrivet, styrbart luftfartyg som är lättare än luft (aerostat).",
+    "historical_notes": "I äldre svenska texter kunde termen även användas mer generellt om ballonger. Modern huvudterm.",
+    "confidence": "high",
+    "variants": [
+      {"variant": "luftskepp", "source": "modern standard"},
+      {"variant": "lufskepp", "source": "äldre stavningsvariant"},
+      {"variant": "luft-skepp", "source": "sammansättningsvariant"},
+      {"variant": "luftfartyg", "source": "bredare term, ibland överlappande"}
+    ]
+  },
+  {
+    "canonical_term": "zeppelinare",
+    "language": "sv",
+    "category": "craft_type",
+    "definition": "Stelt luftskepp av den typ som utvecklades av Ferdinand von Zeppelin (metallram + gasceller).",
+    "historical_notes": "Används ofta specifikt för de tyska stela luftskeppen, men ibland mer generellt om stora stela luftskepp.",
+    "confidence": "high",
+    "variants": [
+      {"variant": "zeppelinare", "source": "modern svensk"},
+      {"variant": "zeppelin", "source": "kortform / tyskt lån"},
+      {"variant": "zeppelinskepp", "source": "sammansättning"},
+      {"variant": "Zeppelin-luftskepp", "source": "beskrivande"}
+    ]
+  },
+  {
+    "canonical_term": "motorballong",
+    "language": "sv",
+    "category": "craft_type",
+    "definition": "Äldre svensk benämning på motordrivet, styrbart luftskepp (ofta non-rigid eller tidiga dirigibles).",
+    "historical_notes": "Vanlig term i svensk litteratur och arkivmaterial från ca 1900–1930. Används sällan idag.",
+    "confidence": "high",
+    "variants": [
+      {"variant": "motorballong", "source": "Nordisk familjebok m.fl."},
+      {"variant": "motor-ballong", "source": "sammansättningsvariant"},
+      {"variant": "styrbar motorballong", "source": "beskrivande äldre form"}
+    ]
+  },
+  {
+    "canonical_term": "styrbar ballong",
+    "language": "sv",
+    "category": "craft_type",
+    "definition": "Ballong som kan styras (dirigible), i motsats till friballong.",
+    "historical_notes": "Används både om tidiga dirigibles och mer generellt.",
+    "confidence": "high",
+    "variants": [
+      {"variant": "styrbar ballong", "source": "Nordisk familjebok"},
+      {"variant": "styrbara ballonger", "source": "pluralform i äldre texter"}
+    ]
+  },
+  {
+    "canonical_term": "aeronerf",
+    "language": "sv",
+    "category": "craft_type",
+    "definition": "Lånord från franska aéronef. Historiskt använt om luftfarkoster (både lättare och tyngre än luft). I vissa sammanhang mer generellt för flygmaskin.",
+    "historical_notes": "Förekommer i svenska arkiv och uppslagsverk som lånord. Betydelsen har skiftat över tid.",
+    "confidence": "medium",
+    "variants": [
+      {"variant": "aeronerf", "source": "svensk stavning"},
+      {"variant": "aéronef", "source": "fransk originalstavning"},
+      {"variant": "aeronef", "source": "engelsk/internationell form"}
+    ]
+  },
+  {
+    "canonical_term": "pralluftskepp",
+    "language": "sv",
+    "category": "craft_type",
+    "definition": "Mjukt / non-rigid luftskepp (formen hålls uppe av övertryck i höljet).",
+    "historical_notes": "Svensk term för det som på engelska kallas blimp eller non-rigid airship.",
+    "confidence": "high",
+    "variants": [
+      {"variant": "pralluftskepp", "source": "modern teknisk term"},
+      {"variant": "mjukt luftskepp", "source": "beskrivande"},
+      {"variant": "blimp", "source": "engelskt lån"}
+    ]
+  },
+  {
+    "canonical_term": "stelt luftskepp",
+    "language": "sv",
+    "category": "craft_type",
+    "definition": "Luftskepp med fast invändigt ramverk som bär upp höljet och gascellerna.",
+    "historical_notes": "Motsvarar engelskans rigid airship. Zeppelinare är den mest kända undergruppen.",
+    "confidence": "high",
+    "variants": [
+      {"variant": "stelt luftskepp", "source": "standard"},
+      {"variant": "rigid airship", "source": "engelska"},
+      {"variant": "starrluftschiff", "source": "tyska"}
+    ]
+  },
+  {
+    "canonical_term": "aerostat",
+    "language": "sv",
+    "category": "craft_type",
+    "definition": "Luftfarkost som är lättare än luft (ballong eller luftskepp).",
+    "historical_notes": "Teknisk överordnad term.",
+    "confidence": "high",
+    "variants": [
+      {"variant": "aerostat", "source": "teknisk term"}
+    ]
+  }
+]
