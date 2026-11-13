@@ -1,0 +1,19 @@
+{
+  "_comment": "Placeholder for Riksarkivet / MCP search queries. Populate with real queries later. The term dictionary can be used to expand these automatically.",
+  "base_terms": [
+    "luftskepp",
+    "motorballong",
+    "zeppelinare",
+    "styrbar ballong",
+    "aeronerf"
+  ],
+  "example_expanded": {
+    "luftskepp": [
+      "luftskepp",
+      "lufskepp",
+      "luft-skepp",
+      "luftfartyg"
+    ]
+  },
+  "notes": "Generate full expanded lists from the terms + term_variants tables when needed."
+}

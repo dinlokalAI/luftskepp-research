@@ -1,0 +1,19 @@
+{
+  "luftskepp": {
+    "description": "Luftskepp, zeppelinare, moderna airships och historiska nyheter",
+    "keywords": [
+      "airship",
+      "zeppelin",
+      "luftskepp",
+      "Hindenburg",
+      "dirigible",
+      "blimp",
+      "Zeppelin NT",
+      "Airlander"
+    ],
+    "feeds": [
+      "https://news.google.com/rss/search?q=airship+OR+zeppelin+OR+dirigible&hl=en-US&gl=US&ceid=US:en",
+      "https://news.google.com/rss/search?q=luftskepp+OR+zeppelinare&hl=sv&gl=SE&ceid=SE:sv"
+    ]
+  }
+}

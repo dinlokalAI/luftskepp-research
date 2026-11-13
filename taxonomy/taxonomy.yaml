@@ -1,0 +1,66 @@
+# Modular taxonomy for luftskepp research
+# Can be loaded by Python, Go, or other tools
+
+construction_type:
+  - rigid
+  - semi-rigid
+  - non-rigid
+  - hybrid
+
+materials:
+  frame:
+    - aluminium
+    - duralumin
+    - wood          # Schütte-Lanz etc.
+    - steel
+    - composite     # modern
+  envelope:
+    - cotton_dope
+    - rubberized_cotton
+    - polyester
+    - other
+  gas_cells:
+    - goldbeaters_skin
+    - rubberized_fabric
+    - synthetic
+
+gas:
+  - hydrogen
+  - helium
+  - mixed
+
+purpose:
+  - civilian_passenger
+  - military_reconnaissance
+  - military_bombing
+  - military_asw
+  - experimental
+  - advertising
+  - cargo
+  - scientific
+
+era:
+  - pre_1914
+  - wwi
+  - interwar
+  - wwii
+  - postwar
+  - modern
+
+manufacturer_examples:
+  - Zeppelin
+  - Schütte-Lanz
+  - Parseval
+  - Vickers
+  - Goodyear
+  - Nobile
+  - other
+
+technique_tags:
+  - mooring_mast
+  - water_ballast
+  - parasite_aircraft
+  - helium_embargo
+  - diesel_engines
+  - maybach
+  - daimler_benz
